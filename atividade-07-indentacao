@@ -1,1 +1,10 @@
-
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <title> Titulo da pagina</title>
+    </head>
+    <body>
+        <h1>topico</h1>
+        <p>Texto da pagina</p>
+    </body>
+</html>
